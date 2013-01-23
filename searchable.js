@@ -1,4 +1,3 @@
-// this is src-activity.js to enqueue
 /* The following code was generously provided by @imath <http://imath.owni.fr/>
  * Please do visit his website <http://imath.owni.fr/> for some awesome BuddyPress/WordPress plugins and tutorials
  */
