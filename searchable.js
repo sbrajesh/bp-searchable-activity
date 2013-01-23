@@ -6,7 +6,7 @@ jQuery(document).ready(function($){
     if( $('form#search-form #search-which').length ) {
     
     //do we have some cookie set?
-    if ( '' != $.cookie('bp-activity-search-terms') ) {
+    if (  $.cookie('bp-activity-search-terms') ) {
         //select activity from dd only if we are on activity directory
         if($("body.activity div.activity").get(0)&&!$('body').hasClass('activity-permalink')){//is there a better way to know if we are on activity directory page?
             $('form#search-form #search-which option[value="activity"]').prop( 'selected', true );
