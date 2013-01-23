@@ -2,11 +2,11 @@
 /*
  * Plugin Name: BP Searchable Activity
  * Author: Brajesh Singh
- * Version:1.0
+ * Version:1.0.1
  * Author URI: http://buddydev.com/members/sbrajesh
  * Plugin URI: http://buddydev.com/plugins/bp-searchable-activity/
  * License: GPL
- * Last Modified: June 27, 2012
+ * Last Modified: January 22, 2013
  */
 /**
  * My special thanks to @imath<http://imath.owni.fr/> for the javascript code and the code to avoid dependence on bp-default javascript code
@@ -84,7 +84,8 @@ class BPDevSearchableActivityHelper {
     //include javascript file
 
     function include_js() {
-        wp_enqueue_script('activity-search', plugin_dir_url(__FILE__) . "searchable.js");
+        if(bp_is_activity_component()&&!bp_is_user())
+            wp_enqueue_script('activity-search', plugin_dir_url(__FILE__) . "searchable.js");
     }
 
 }
