@@ -84,7 +84,7 @@ class BPDevSearchableActivityHelper {
     //include javascript file
 
     function include_js() {
-        if(bp_is_activity_component()&&!bp_is_user())
+        //if(bp_is_activity_component()&&!bp_is_user())
             wp_enqueue_script('activity-search', plugin_dir_url(__FILE__) . "searchable.js");
     }
 
