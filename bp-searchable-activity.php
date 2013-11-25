@@ -2,7 +2,7 @@
 /*
  * Plugin Name: BP Searchable Activity
  * Author: Brajesh Singh
- * Version:1.0.2
+ * Version: 1.0.2
  * Author URI: http://buddydev.com/members/sbrajesh
  * Plugin URI: http://buddydev.com/plugins/bp-searchable-activity/
  * License: GPL
