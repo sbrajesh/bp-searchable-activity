@@ -2,11 +2,11 @@
 /*
  * Plugin Name: BP Searchable Activity
  * Author: Brajesh Singh
- * Version:1.0.1
+ * Version:1.0.2
  * Author URI: http://buddydev.com/members/sbrajesh
  * Plugin URI: http://buddydev.com/plugins/bp-searchable-activity/
  * License: GPL
- * Last Modified: January 22, 2013
+ * Last Modified: November 26, 2013
  */
 /**
  * My special thanks to @imath<http://imath.owni.fr/> for the javascript code and the code to avoid dependence on bp-default javascript code
