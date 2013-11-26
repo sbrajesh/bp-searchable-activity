@@ -1,5 +1,5 @@
 === BP Searchable Activity ===
-Contributors: sbrajesh,buddydev
+Contributors: sbrajesh,buddydev,anusharma
 Tags: buddypress, activity, search
 Requires at least: BuddyPress 1.5
 Tested up to: BuddyPress 1.8.1
