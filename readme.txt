@@ -1,13 +1,13 @@
-=== BP Searchable Activity ===
+=== BuddyPress Searchable Activity ===
 Contributors: sbrajesh,buddydev,anusharma
 Tags: buddypress, activity, search
 Requires at least: BuddyPress 1.5
-Tested up to: BuddyPress 1.8.1
-Stable tag: 1.0.2
+Tested up to: BuddyPress 2.5.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-BuddyPress Searchable Activity allows users to search BuddyPress Activity
+BuddyPress Searchable Activity allows users to search BuddyPress Activity.
 
 == Description ==
 BuddyPress Searchable Activity allows users to search BuddyPress activity. It is just a plug and play plugin.
@@ -16,7 +16,8 @@ Please see screenshots for more details.
 
 Special Thanks to [@imath](http://imath.owni.fr/) for making it independent of any js modifications in the theme.
 
-Please leave a comment on our blog [BuddyDev](http://buddydev.com/buddypress/making-buddypress-activity-searchable/) for any support.
+Please see more details on our blog [BuddyDev](http://buddydev.com/buddypress/making-buddypress-activity-searchable/).
+For support, Please use [BuddyDev Support Forums](http://buddydev.com/support/forums/)
 
 
 == Installation ==
@@ -45,6 +46,9 @@ Ok, we need some question first.
 2. Searched Activity screenshot-2.png
 
 == Changelog ==
+
+= 1.0.3 =
+* Initial release
 
 = 1.0 =
 * Initial release
